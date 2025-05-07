@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>org.matheclipse</groupId>
+    <artifactId>symja</artifactId>
+    <version>2023-11-15</version>
+</dependency>
