@@ -17,3 +17,14 @@
 
 + *Uses memoization/caching for repeated calculations (e.g. factorial, combinations, primes).*
 
+
+*"It also has a Graph you can use to plot points still a work in prograss though"*
+
+**How it works:**
+
+**Insert an example like this into the terminal:**
+
+<ins>GraphPlotter.plotFunction("sin(x)", -10, 10);</ins>
+
+<ins>GraphPlotter.plotFunction("x^2+3*x-4", -10, 10);</ins>
+
