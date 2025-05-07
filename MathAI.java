@@ -30,7 +30,7 @@ public class MathAI {
         Callable<String> solverTask = () -> {
             String problemType = ProblemDetector.detectProblemType(problem);
             String result;
-            
+
             switch (problemType) {
                 case "Calculus - Derivative":
                 case "Calculus - Integral":
@@ -54,5 +54,6 @@ public class MathAI {
         }
         executor.shutdown();
         scanner.close();
+    }
     }
 }
