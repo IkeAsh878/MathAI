@@ -1,6 +1,8 @@
 # MathAI
 *An AI program that is able to solve any basic and complex math equations and problems entered into the AI*
 
+<img src="https://github.com/user-attachments/assets/2ece6d39-da6f-4949-a0e3-21d50a5af462" width="200" height="200">
+
 **How it works:**
 
 + <ins>User enters multiple problems (ends input with done)</ins>
