@@ -13,20 +13,20 @@
 
 **Use efficient math libraries like:**
 
-+ *Apache Commons Math — reliable, covers statistics, linear algebra, and optimization.*
++ <ins>*Apache Commons Math — reliable, covers statistics, linear algebra, and optimization.*</ins>
 
-+ *Symja — symbolic math engine for Java (supports algebraic simplification, calculus, equation solving).*
++ <ins>*Symja — symbolic math engine for Java (supports algebraic simplification, calculus, equation solving).*</ins>
 
-+ *Uses memoization/caching for repeated calculations (e.g. factorial, combinations, primes).*
++ <ins>*Uses memoization/caching for repeated calculations (e.g. factorial, combinations, primes).*</ins>
 
 
 *"It also has a Graph you can use to plot points still a work in prograss though"*
 
 **How it works:**
 
-**Insert an example like this into the terminal:**
+**<ins>Example:</ins> Insert an example like this into the terminal**
 
-<ins>GraphPlotter.plotFunction("sin(x)", -10, 10);</ins>
++ <ins>GraphPlotter.plotFunction("sin(x)", -10, 10);</ins>
 
-<ins>GraphPlotter.plotFunction("x^2+3*x-4", -10, 10);</ins>
++ <ins>GraphPlotter.plotFunction("x^2+3*x-4", -10, 10);</ins>
 
